@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">001_test_24_02_2017</string>
+    <string name="kazan">Казанский государственный\nархитектурно-строительный университет</string>
+    <string name="kafed">Кафедра проектирования зданий</string>
+    <string name="test">ТЕСТ</string>
+    <string name="dists">по дисциплине: "Основы архитектуры\nи строительные конструкции"</string>
+    <string name="razr">Разработчик:\nк.э.н., доц. Хабибулина А.Г.</string>
+    <string name="kgasu">© КГАСУ - 2017</string>
+    <string name="author">Авторизация</string>
+</resources>
